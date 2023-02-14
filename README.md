@@ -1,8 +1,8 @@
 ### Hello World! My name is Leonardo 👋
 
-#### 👨‍💻 I'm a Full-Stack Developer working in Belo Horizonte/Lavras, Brazil.
+#### 👨‍💻 I'm a Full-Stack Developer open to Work!
 
-- 👨‍💻 I'm a Full-Stack Developer working in Belo Horizonte/Lavras, Brazil
+- 👨‍💻 I'm a Full-Stack Developer open to Work!
 - 👀 I’m interested in any subject related to technologies, especially front-end
 - 🌱 I’m currently working as an intern at Dti Digital and building side-projects to improve my knowledge
 - 💞️ I’m looking to collaborate on Open Source projects
