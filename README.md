@@ -4,7 +4,7 @@
 
 - 👨‍💻 I'm a Full-Stack Developer open to Work!
 - 👀 I’m interested in any subject related to technologies, especially front-end
-- 🌱 I’m currently working as an intern at Dti Digital and building side-projects to improve my knowledge
+- 🌱 I’m currently open to work and building side-projects to improve my knowledge
 - 💞️ I’m looking to collaborate on Open Source projects
 - ⚡️ Fun Fact: I've listened to over 110,000 minutes of music on Spotify in the last year!
 - 📫 Reach me: 
