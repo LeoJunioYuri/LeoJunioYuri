@@ -2,7 +2,7 @@
 
 #### 👨‍💻 I'm a Full-Stack Developer!
 
-- 👨‍💻 I'm a Full-Stack Developer open to Work!
+- 👨‍💻 I'm a Full-Stack Developer!
 - 👀 I’m interested in any subject related to technologies, especially front-end
 - 🌱 I’m currently open to work and building side-projects to improve my knowledge
 - 💞️ I’m looking to collaborate on Open Source projects
