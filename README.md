@@ -1,6 +1,6 @@
 ### Hello World! My name is Leonardo 👋
 
-#### 👨‍💻 I'm a Full-Stack Developer open to Work!
+#### 👨‍💻 I'm a Full-Stack Developer!
 
 - 👨‍💻 I'm a Full-Stack Developer open to Work!
 - 👀 I’m interested in any subject related to technologies, especially front-end
