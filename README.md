@@ -3,8 +3,8 @@
 #### 👨‍💻 I'm a Full-Stack Developer!
 
 - 👨‍💻 I'm a Full-Stack Developer!
-- 👀 I’m interested in any subject related to technologies, especially front-end
-- 🌱 I’m currently open to work and building side-projects to improve my knowledge
+- 👀 I’m interested in any subject related to technology, especially front-end
+- 🌱 I’m currently working at Brendi, a Start-up based in São José dos Campos, São Paulo - and building side-projects to improve my knowledge
 - 💞️ I’m looking to collaborate on Open Source projects
 - ⚡️ Fun Fact: I've listened to over 110,000 minutes of music on Spotify in the last year!
 - 📫 Reach me: 
